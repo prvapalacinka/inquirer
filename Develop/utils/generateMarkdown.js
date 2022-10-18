@@ -36,28 +36,37 @@ function generateMarkdown(data) {
   ## Link to deployed pages:
   [Github](https://github.com/prvapalacinka/inquirer)
   ## TOC
+
+  - [Links](#links)
   - [Description](#description)
   - [License](#license)
   - [Installation](#installation)
+  - [Usage](#usage)
+  - [Tests](#tests)
   - [Contribute](#contribute)
-  ## Contact
-  ${data.email}
-  ${data.github_username}
+  ## Contact/Questions
+  - Email - ${data.email}
+  - Github - ${data.github_username}
+  - How else to reach me with any additional questions: ${data.additionalquestions}
 
-  ##Links
+  ## Links
   ${data.github_link}
   ${data.deployed_app}
 
   ## Description
   ${data.description}
   ${data.description_challenges}
+
   ## License
   ${data.license}
 
-  ## Installation
-  ${data.description_installation}
+  ## Usage
+  ${data.usage}
   ${data.dependencies}
   ${data.credentials}
+  
+  ## Tests
+  ${data.tests}
 
   ## Contribute
   ${data.contribute}

@@ -1,22 +1,39 @@
-# sh
+# SOMETHIGN
   ![License:MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   ## Link to deployed pages:
   [Github](https://github.com/prvapalacinka/inquirer)
   ## TOC
-  [Description](#description)
-  [License](#license)
-  [Installation](#installation)
-  [Contribute](#contribute)
+
+  - [Links](#links)
+  - [Description](#description)
+  - [License](#license)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Tests](#tests)
+  - [Contribute](#contribute)
+  ## Contact/Questions
+  - Email - pvidovic@gmailadkjf
+  - Github - prvacpalaicnka
+  - How else to reach me with any additional questions: IDK TBH
+
+  ## Links
+  https://github.com/prvapalacinka/inquirer
+  https://github.com/prvapalacinka/inquirer
+
   ## Description
-  sdfghsdfgh
-  fgdh
+  falsdjflkadjfklj
+  alsdkfjalkdjfl
+
   ## License
   MIT
 
-  ## Installation
-  sfgh
-  sdfgt
-  sfth
+  ## Usage
+  alsdkjflkajdsf
+  alsdkfjlaksjdf
+  alksdfjlkadjsf
+  
+  ## Tests
+  lakdsjfljad
 
   ## Contribute
-  stdfh
+  lasdjflkajsdlkf

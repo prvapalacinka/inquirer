@@ -32,6 +32,12 @@ inquirer
     },
     {
       type: 'input',
+      name: 'additionalquestions',
+      message: 'How can a user reach you about any additional questions?',
+      
+    },
+    {
+      type: 'input',
       name: 'github_link',
       message: 'What is your github project link?',
       
@@ -51,6 +57,11 @@ inquirer
     },
     {
       type: 'input',
+      name: 'tests',
+      message: 'Please write out any tests that may be ran for this application:',
+    },
+    {
+      type: 'input',
       name: 'description',
       message: 'Describe your application',
     },
@@ -61,7 +72,7 @@ inquirer
     },
     {
       type: 'input',
-      name: 'description_installation',
+      name: 'usage',
       message: 'How can a user install and use the application?',
     },
     {
