@@ -112,23 +112,5 @@ const questions = [];
 function writeToFile(fileName, data) {
   fs.writeFile(fileName, data, (err) => console.log(err))
 };
-// run an fs command to write the file using the above parameters
-//fs.writeFile(fileName, data, (err) => console.log(err))
 
-
-// TODO: Create a function to initialize app
-// function init() { 
-//   promptUser()
-//   .then(function(data) {
-//     return generateMarkdown(data);
-//   })
-//   .then(function(data) {
-//     writeToFile(data)
-//   })
-//   .catch(err => {
-//     console.log(err);
-//   });
-// }
-
-// Function call to initialize app
 init();

@@ -1,7 +1,13 @@
-# SOMETHIGN
+# INquirer App
   ![License:MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+  ---
+
   ## Link to deployed pages:
-  [Github](https://github.com/prvapalacinka/inquirer)
+  [Github](https://github.com/prvapalacinka/inquirer
+  
+  ---
+
   ## TOC
 
   - [Links](#links)
@@ -11,29 +17,32 @@
   - [Usage](#usage)
   - [Tests](#tests)
   - [Contribute](#contribute)
+
+  ---
+  
   ## Contact/Questions
-  - Email - pvidovic@gmailadkjf
-  - Github - prvacpalaicnka
-  - How else to reach me with any additional questions: IDK TBH
+  - Email - vidovicpQ21@gmail.com
+  - Github - prvapalacinka
+  - How else to reach me with any additional questions: they can knock on my door
 
   ## Links
-  https://github.com/prvapalacinka/inquirer
-  https://github.com/prvapalacinka/inquirer
+  github.com/useruser/usercase
+  github.com
 
   ## Description
-  falsdjflkadjfklj
-  alsdkfjalkdjfl
+  the app does cool things for cool people and cool pets and animals
+  no challenges because we are masters of our craft
 
   ## License
   MIT
 
   ## Usage
-  alsdkjflkajdsf
-  alsdkfjlaksjdf
-  alksdfjlkadjsf
+  easily with our tutorials
+  no dependencies
+  the credentials were the credentials
   
   ## Tests
-  lakdsjfljad
+  no tests were used 
 
   ## Contribute
-  lasdjflkajsdlkf
+  the guidelines are as listed : yes no yes no yes no

@@ -33,8 +33,14 @@ function renderLicenseSection(license) { }
 function generateMarkdown(data) {
   return `# ${data.title}
   ${renderLicenseLink(data.license)}
+
+  ---
+
   ## Link to deployed pages:
-  [Github](https://github.com/prvapalacinka/inquirer)
+  [Github](https://github.com/prvapalacinka/inquirer
+  
+  ---
+
   ## TOC
 
   - [Links](#links)
@@ -44,6 +50,9 @@ function generateMarkdown(data) {
   - [Usage](#usage)
   - [Tests](#tests)
   - [Contribute](#contribute)
+
+  ---
+  
   ## Contact/Questions
   - Email - ${data.email}
   - Github - ${data.github_username}
